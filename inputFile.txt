@@ -1,0 +1,4 @@
+A . txt file is one that contains plain text without any special formatting, fonts or images. 
+Most computer operating systems include multiple tools that can be used to generate such a file. 
+On an Apple Macintosh computer, you can create a text file with TextEdit for Mac, 
+which ships with the operating system.
